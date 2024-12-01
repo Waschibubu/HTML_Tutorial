@@ -1,0 +1,22 @@
+body {
+    background: #000;
+}
+
+#waschibubu_logo {
+    max-width: 10%;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(230, 230, 230);
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(230, 230, 230);
+}
+
+p {
+    font-size: 20px;
+    color: rgb(230, 230, 230);
+}
